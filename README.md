@@ -1,2 +1,2 @@
-# Repo_deneme
-Bu repo deneme için oluşturulmuştur
+# Repo_odev
+Bu repo web tasarım için oluşturulmuştur
